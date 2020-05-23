@@ -65,4 +65,4 @@ else :
 
 A_raw = A
 print('Removes the trend')
-A = A_raw - Mu # We remove the trend
+A = A_raw - Mu # We remove the trend of the anomaly
